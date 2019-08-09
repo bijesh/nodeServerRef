@@ -1,0 +1,18 @@
+{
+    "employee": [
+    {
+        "name": "bijesh",
+        "gender": "male",
+        "age" : 30,
+        "location": "london",
+        "department": "IT"
+    },
+    {
+        "name": "sumit",
+        "gender": "male",
+        "age" : 37,
+        "location": "london",
+        "department": "IT"
+    }
+    ]
+}
