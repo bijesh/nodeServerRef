@@ -22,7 +22,7 @@
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "lowdb": "^1.0.0",
-    "mocha": "^5.0.4",
+    "mocha": "^10.2.0",
     "request": "^2.85.0"
   },
   "devDependencies": {
